@@ -1,9 +1,9 @@
 <template>
-    <p>hello usukawa</p>
+  <p>hello usukawa</p>
 </template>
 
 <script lang="ts">
 export default {
-    name: 'DashboardPage'
+  name: 'DashboardPage'
 }
 </script>
